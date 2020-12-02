@@ -1,2 +1,3 @@
 # Python
-Beginner to Advanced Notebooks
+
+This repository will have notebooks related to python from begineer to advanced level.
